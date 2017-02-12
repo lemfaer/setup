@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"jQuery",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"PHP Getters and Setters",
+		"SideBarEnhancements",
+		"SyncedSideBar",
+		"Text Pastry",
+		"Twig"
+	]
+}

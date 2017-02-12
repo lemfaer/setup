@@ -1,0 +1,7 @@
+{
+	// user defined templates to load
+	"registerTemplates" : [ "atemplate" ],
+
+	// the template used to generate code
+	"template" : "atemplate",
+}
