@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 	"draw_white_space": "all",
+	"default_line_ending": "LF",
 	"font_size": 11,
 	"ignored_packages":
 	[
