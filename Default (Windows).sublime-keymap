@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+d"], "command": "find_all_under" },
+	{ "keys": ["alt+="], "command": "jump_forward" },
+	{ "keys": ["alt+keypad_plus"], "command": "jump_forward" }
+]

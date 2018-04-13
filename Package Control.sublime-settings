@@ -6,17 +6,15 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Babel",
 		"Boxy Theme",
 		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
-		"jQuery",
-		"Laravel Blade Highlighter",
 		"Package Control",
-		"PHP Getters and Setters",
+		"Sass",
 		"SideBarEnhancements",
-		"SyncedSideBar",
 		"Text Pastry",
-		"Twig"
+		"Vue Syntax Highlight"
 	]
 }
